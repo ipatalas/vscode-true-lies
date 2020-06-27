@@ -3,6 +3,7 @@
 	"displayName": "VS Code comments auto completion",
 	"description": "Comments auto completion",
 	"version": "0.0.1",
+	"publisher": "ipatalas",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
